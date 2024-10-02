@@ -18,9 +18,9 @@
     
 📫 How to Reach Me:
 
-    📧 Email:  (gylm99@gmail.com)
+    📧 Email:  gylm99@gmail.com
     
-    💼 LinkedIn Profile (https://www.linkedin.com/in/l%C3%A1szl%C3%B3-m%C3%A1rton-gyuris-396761264/)
+    💼 LinkedIn Profile ([https://www.linkedin.com/in/l%C3%A1szl%C3%B3-m%C3%A1rton-gyuris-396761264/])
 <!--
 **gylm99/gylm99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
