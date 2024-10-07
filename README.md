@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm I'm László Gyuris!</h1>
+<h1 align="center">Hi 👋, I'm László Gyuris!</h1>
 - 🔭 I’m currently working on [Fitness Web_App](https://github.com/MolnarGeri/Fittness_Web_app)
 
 - 👨‍💻 All of my projects are available at [https://github.com/gylm99](https://github.com/gylm99)
